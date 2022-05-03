@@ -13,3 +13,15 @@ You can follow [UCI](https://archive.ics.uci.edu/ml/datasets/human+activity+reco
 Run `python main.py` to train and test on several HAR datasets. 
 # Contributing
 We appreciate all contributions. Please do not hesitate to let me know if you have any problems during the reproduction.
+
+# Citation
+```
+@article{tang2022multi,
+  title={Multi-scale Deep Feature Learning for Human Activity Recognition Using Wearable Sensors},
+  author={Tang, Yin and Zhang, Lei and Min, Fuhong and He, Jun},
+  journal={IEEE Transactions on Industrial Electronics},
+  year={2022},
+  publisher={IEEE}
+}
+```
+
