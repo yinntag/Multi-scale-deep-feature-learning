@@ -12,7 +12,7 @@ You can follow [UCI](https://archive.ics.uci.edu/ml/datasets/human+activity+reco
 
 Run `python main.py` to train and test on several HAR datasets. 
 # Contributing
-We appreciate all contributions. Please do not hesitate to let me know if you have any problems during the reproduction.
+We appreciate all contributions. Please do not hesitate to let me know if you have any problems during the reproduction (yinntag@gmail.com).
 
 # Citation
 ```
